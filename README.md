@@ -1,6 +1,6 @@
 <div align="center">
 
-# こんにちは、`tanakaseidy3103` です
+# 私について
 
 **フルスタック開発者 | Web・AI・ゲーム開発**
 
