@@ -23,13 +23,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 💡 フルスタック開発を学びながら、実務でも通用する設計力を伸ばしています
-- 🚀 Next.js、React、TypeScript、Tailwind CSS を使った開発が好きです
-- 🎨 見た目だけでなく、操作しやすい UI/UX を意識しています
-- 🤖 AI、IoT、クラウド、ゲーム開発など幅広い分野に興味があります
-- 📦 GitHub では制作物や学習ログを整理して公開しています
+- フルスタック開発を学びながら、実務でも通用する設計力を伸ばしています
+-  Next.js、React、TypeScript、Tailwind CSS を使った開発が好きです
+-  見た目だけでなく、操作しやすい UI/UX を意識しています
+-  AI、IoT、クラウド、ゲーム開発など幅広い分野に興味があります
+-  GitHub では制作物や学習ログを整理して公開しています
 
 ## 🛠️ Tech Stack
 
@@ -57,7 +57,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40" alt="Unreal Engine" />
 </p>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <p align="left">
   <a href="https://github.com/tanakaseidy3103">
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-## 📫 Contact
+##  Contact
 
 - GitHub: [@tanakaseidy3103](https://github.com/tanakaseidy3103)
 - 作品や学習の記録は GitHub にまとめています
