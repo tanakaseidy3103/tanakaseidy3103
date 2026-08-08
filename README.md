@@ -57,16 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="40" height="40" alt="Unreal Engine" />
 </p>
 
-## GitHub Activity
-
-<p align="left">
-  <a href="https://github.com/tanakaseidy3103">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanakaseidy3103&show_icons=true&theme=tokyonight&include_all_commits=true&locale=ja" height="180" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/tanakaseidy3103">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanakaseidy3103&theme=tokyonight&layout=compact&locale=ja&langs_count=8" height="180" alt="Top Languages" />
-  </a>
-</p>
 
 ##  Contact
 
