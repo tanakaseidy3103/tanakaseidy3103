@@ -22,7 +22,7 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 **Full Stack Developerとして2年以上の実務経験**があります。
 
