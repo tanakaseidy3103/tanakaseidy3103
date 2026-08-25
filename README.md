@@ -6,21 +6,6 @@
 
 日々、使いやすさと見た目の両立を意識しながら、Web開発・UI設計・AIシステムに取り組んでいます。<br>
 新しい技術を試しつつ、整理されたコードと丁寧な体験づくりを大切にしています。
-
-<p align="center">
-  <a href="https://github.com/tanakaseidy3103">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/tanakaseidy3103?color=1f6feb&label=GitHub%20Followers&logo=github&logoColor=white&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/tanakaseidy3103?tab=repositories">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/tanakaseidy3103?color=0f766e&label=Stars&logo=star&logoColor=white&style=for-the-badge" alt="GitHub Stars" />
-  </a>
-  <a href="https://github.com/tanakaseidy3103?tab=followers">
-    <img src="https://img.shields.io/badge/Profile%20Style-Minimal%20%26%20clean-0f766e?style=for-the-badge" alt="Profile Style" />
-  </a>
-</p>
-
-</div>
-
 ---
 
 ##  About Me
