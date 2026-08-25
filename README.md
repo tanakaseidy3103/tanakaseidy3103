@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 田中聖治 | Tanaka Seidy
+#  田中聖治 | Tanaka Seidy
 
 ### Full Stack Engineer · AI Engineering Student
 
@@ -41,7 +41,7 @@ UI・デザインの改善にも取り組んでいます。
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Full Stack Development
 
@@ -50,7 +50,7 @@ UI・デザインの改善にも取り組んでいます。
 Webサイト・Webシステムの開発から運用・保守まで、
 幅広い業務を経験しています。
 
-### 🔧 Development
+### Development
 
 * PHP
 * WordPress
@@ -62,7 +62,7 @@ Webサイト・Webシステムの開発から運用・保守まで、
 * Responsive Design
 * UI / UX Design
 
-### 🛠️ 運用・保守
+### 運用・保守
 
 * WordPressサイトの運用・保守
 * Webサイトの更新・修正
@@ -75,7 +75,7 @@ Webサイト・Webシステムの開発から運用・保守まで、
 * UI・レイアウトの改善
 * 既存コードの修正・改善
 
-### ☁️ Server / Infrastructure
+### Server / Infrastructure
 
 * Xserver
 * FTP
@@ -86,7 +86,7 @@ Webサイト・Webシステムの開発から運用・保守まで、
 
 ---
 
-## 🎓 Education
+## Education
 
 ### AI Engineering
 
@@ -105,9 +105,9 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
@@ -117,7 +117,7 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/>
 </p>
 
-### 🌐 Frontend
+### Frontend
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45"/>
@@ -139,7 +139,7 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45"/>
 </p>
 
-### 🗄️ Database
+### Database
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/>
@@ -147,7 +147,7 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45"/>
 </p>
 
-### 🤖 AI / Computer Vision
+### AI / Computer Vision
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45"/>
@@ -155,7 +155,7 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>
 </p>
 
-### ☁️ Cloud / Infrastructure / Game
+### Cloud / Infrastructure / Game
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
@@ -190,14 +190,14 @@ IoT / Cloud
 
 ---
 
-# 🎯 Core Strengths
+# Core Strengths
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 💻 Full Stack Development
+### Full Stack Development
 
 フロントエンドからバックエンドまで、
 Webアプリケーションの開発に対応。
@@ -206,7 +206,7 @@ Webアプリケーションの開発に対応。
 
 <td width="50%" valign="top">
 
-### 🔧 運用・保守
+### 運用・保守
 
 既存サイトの修正・改善から、
 障害調査・復旧まで対応。
@@ -219,7 +219,7 @@ Webアプリケーションの開発に対応。
 
 <td width="50%" valign="top">
 
-### 🌐 WordPress
+### WordPress
 
 WordPressサイトの開発・カスタマイズ、
 Plugin開発・運用を経験。
@@ -228,7 +228,7 @@ Plugin開発・運用を経験。
 
 <td width="50%" valign="top">
 
-### 🎨 UI / UX
+### UI / UX
 
 SCSS・JavaScriptなどを使用し、
 デザインと使いやすさを意識した開発。
@@ -241,7 +241,7 @@ SCSS・JavaScriptなどを使用し、
 
 <td width="50%" valign="top">
 
-### ☁️ Infrastructure
+### Infrastructure
 
 Xserver・FTP・Docker・Cloudなど、
 Web環境の構築・運用を経験。
@@ -250,7 +250,7 @@ Web環境の構築・運用を経験。
 
 <td width="50%" valign="top">
 
-### 🤖 AI Engineering
+### AI Engineering
 
 AIエンジニアリングを専攻し、
 AI・ML・Computer Visionを学習中。
@@ -278,7 +278,7 @@ Web開発の実務経験をベースに、AI・機械学習・クラウドなど
 
 ---
 
-# 📫 Contact
+# Contact
 
 <div align="center">
 
@@ -292,7 +292,7 @@ Web開発の実務経験をベースに、AI・機械学習・クラウドなど
 
 <div align="center">
 
-### Thanks for visiting my profile! 👋
+### Thanks for visiting my profile! 
 
 **Full Stack Development × AI Engineering**
 
