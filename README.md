@@ -24,7 +24,7 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 
 ## About Me
 
-**Full Stack Developerとして2年以上の実務経験**があります。
+**Full Stack Developerとして1年以上の実務経験**があります。
 
 これまでWeb開発の現場で、PHP・WordPressを中心に、
 WebサイトやWebシステムの開発だけでなく、運用・保守まで幅広く経験してきました。
@@ -45,7 +45,7 @@ UI・デザインの改善にも取り組んでいます。
 
 ### Full Stack Development
 
-**2+ Years of Professional Experience**
+**1+ Years of Professional Experience**
 
 Webサイト・Webシステムの開発から運用・保守まで、
 幅広い業務を経験しています。
