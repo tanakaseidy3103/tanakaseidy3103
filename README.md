@@ -4,7 +4,7 @@
 
 ### Full Stack Engineer · AI Engineering Student
 
-**2年以上の実務経験 | Full Stack Development**
+**1年以上の実務経験 | Full Stack Development**
 
 Web開発を中心に、PHP・WordPress・JavaScript・SCSSなどを使用した
 開発・運用・保守に携わっています。
