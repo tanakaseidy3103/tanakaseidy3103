@@ -45,7 +45,7 @@ UI・デザインの改善にも取り組んでいます。
 
 ### Full Stack Development
 
-**1+ Years of Professional Experience**
+**2+ Years of Professional Experience**
 
 Webサイト・Webシステムの開発から運用・保守まで、
 幅広い業務を経験しています。
