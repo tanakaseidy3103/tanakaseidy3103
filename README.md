@@ -229,8 +229,7 @@ GitHub: https://github.com/tanakaseidy3103/LEGO-SPIKE-Robotics
 
 ## Certifications & Achievements
 
-- Fundamental Information Technology Engineer Examination (基本情報技術者試験)
-- J.TEST — Pre-Level B / 740
+- J.TEST — Pre-Level B 
 - Spring School International — Advanced English Course
 
 ---
