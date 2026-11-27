@@ -1,16 +1,14 @@
-<div align="center">
+ <div align="center">
 
-#  田中聖治 | Tanaka Seidy
+# 田中聖治 | Tanaka Seidy
 
-### Full Stack Engineer · AI Engineering Student
+### Software Engineer · AI Engineering Student
 
-**3年の実務経験 | Full Stack Development**
+**3+ Years of Programming Experience**
 
-Web開発を中心に、PHP・WordPress・JavaScript・SCSSなどを使用した
-開発・運用・保守に携わっています。
+**Full-Stack Development | AI Systems | Software Engineering**
 
-現在はAIエンジニアリングを専攻し、Web開発の経験を活かしながら
-AI・機械学習・コンピュータビジョンなどの技術を学んでいます。
+Building software solutions by combining web development, artificial intelligence, and practical engineering.
 
 <p>
   <a href="https://github.com/tanakaseidy3103">
@@ -24,276 +22,236 @@ AI・機械学習・コンピュータビジョンなどの技術を学んでい
 
 ## About Me
 
-**Full Stack Developerとして2年以上の実務経験**があります。
+I'm a software developer with **3+ years of programming experience**, including hands-on professional experience in web development.
 
-これまでWeb開発の現場で、PHP・WordPressを中心に、
-WebサイトやWebシステムの開発だけでなく、運用・保守まで幅広く経験してきました。
+My background includes developing and maintaining websites, web applications, APIs, and business systems using technologies such as PHP, WordPress, JavaScript, React, TypeScript, and Python.
 
-既存サイトの修正や機能追加、WordPress Pluginの開発・カスタマイズ、
-サイト障害時の原因調査・復旧対応など、実際のWebサイトを継続的に
-運用するための業務にも携わっています。
+Throughout my professional experience, I've worked on feature development, WordPress plugin customization, troubleshooting, production issue resolution, website recovery, and system improvements.
 
-また、SCSS・JavaScriptを使用したフロントエンド開発や、
-UI・デザインの改善にも取り組んでいます。
+Currently, I'm studying **AI Engineering at HAL Nagoya**, expanding my knowledge of artificial intelligence, machine learning, computer vision, robotics, and software engineering.
 
-現在はAIエンジニアリングを専攻し、Web開発とAI技術を
-組み合わせたシステム開発にも取り組んでいます。
+I'm particularly interested in building intelligent systems, AI-powered applications, autonomous agents, and scalable software solutions.
+
+My goal is to develop technology that connects software engineering and artificial intelligence to solve real-world problems.
 
 ---
 
-##  Professional Experience
+## Professional Experience
 
-### Full Stack Development
+### Full-Stack & Web Development
 
-**3+ Years of Professional Experience**
+**3+ Years of Programming Experience**
 
-Webサイト・Webシステムの開発から運用・保守まで、
-幅広い業務を経験しています。
+Professional and practical experience developing, maintaining, and improving web applications and websites.
 
-### Development
+### Backend & Web Technologies
 
-* PHP
-* WordPress
-* WordPress Plugin Development
-* Laravel
-* JavaScript
-* HTML / CSS
-* SCSS
-* Responsive Design
-* UI / UX Design
+- PHP
+- Laravel
+- WordPress
+- WordPress Plugin Development
+- JavaScript
+- REST API Development
+- LINE API Integration
+- Hono
 
-### 運用・保守
+### Frontend Development
 
-* WordPressサイトの運用・保守
-* Webサイトの更新・修正
-* 既存サイトの機能追加・改善
-* WordPress Pluginのカスタマイズ
-* サイトの不具合調査・修正
-* サイト障害・表示不具合などの原因調査
-* ダウンしたWebサイトの復旧対応
-* レスポンシブ対応
-* UI・レイアウトの改善
-* 既存コードの修正・改善
+- HTML5
+- CSS3
+- SCSS
+- React
+- TypeScript
+- Responsive Web Design
+- UI Implementation
+- JavaScript
 
-### Server / Infrastructure
+### Development & Infrastructure
 
-* Xserver
-* FTP
-* Docker
-* Cloud
-* Web Server Management
-* Deployment / Environment Setup
+- Docker
+- Cloudflare
+- Cloudflare D1
+- Xserver
+- FTP
+- Web Server Management
+- Deployment & Environment Setup
+- Application Maintenance
+
+### Development & Maintenance Activities
+
+- Developed and maintained websites and web systems.
+- Customized WordPress plugins and existing functionality.
+- Implemented new features and improved existing applications.
+- Integrated APIs and external services.
+- Investigated and resolved production issues.
+- Performed website recovery and troubleshooting.
+- Improved responsive layouts and user interfaces.
+- Worked with existing codebases and development environments.
 
 ---
 
 ## Education
 
-### AI Engineering
+### HAL Nagoya — AI Engineering
 
-AIエンジニアリングを専攻し、Web開発だけでなく
-AI・機械学習・コンピュータビジョンなどの技術を学んでいます。
+**Specialization: AI Systems Development**
+
+Currently studying artificial intelligence and software engineering, with a focus on practical applications.
 
 ### Focus Areas
 
-`Artificial Intelligence`
-`Machine Learning`
-`Computer Vision`
-`Python`
-`Data Analysis`
-`Web Development`
-`Cloud / IoT`
+- Artificial Intelligence
+- Machine Learning
+- Python Programming
+- Data Analysis
+- Computer Vision
+- C++ Programming
+- Robotics & IoT
+- Cloud Technologies
+- Software Development
 
 ---
 
-# Tech Stack
+## Featured Projects
+
+### AI & Intelligent Systems
+
+#### AI-Agent-Builder
+
+A platform that transforms natural language instructions into reusable AI Agent Skills.
+
+- FastAPI
+- Python
+- React
+- TypeScript
+- PostgreSQL
+- Docker
+- Ollama
+- Local LLM Integration
+- Automated Validation & Testing
+
+GitHub: https://github.com/tanakaseidy3103/AI-Agent-Builder
+
+#### AgentWorld
+
+An AI-powered collaborative simulation environment built with Unity, where autonomous agents explore, plan, and build together using local language models.
+
+- Unity 6
+- C#
+- Python
+- Ollama
+- Meta Llama
+- AI Agents
+- Multi-Agent Collaboration
+
+GitHub: https://github.com/tanakaseidy3103/AgentWorld
+
+### Data & AI Applications
+
+#### AI Operations Copilot
+
+An AI-powered business analytics prototype focused on data processing, anomaly detection, forecasting, and business insights.
+
+- Python
+- Machine Learning
+- Scikit-learn
+- PostgreSQL
+- Power BI
+- Data Analysis
+
+GitHub: https://github.com/tanakaseidy3103
+
+### Robotics & Embedded Systems
+
+#### LEGO SPIKE Robotics
+
+A Python-based robotics project involving autonomous movement, sensor integration, and feedback-based control.
+
+- Python
+- LEGO SPIKE Prime
+- Sensors
+- Feedback Control
+- Robotics
+
+GitHub: https://github.com/tanakaseidy3103/LEGO-SPIKE-Robotics
+
+---
+
+## Tech Stack
 
 ### Programming Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="45"/>
 </p>
 
-### Frontend
+### Frameworks & Libraries
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-</p>
-
-### ⚙️ Backend / CMS
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45"/>
-</p>
-
-### AI / Computer Vision
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45"/>
-</p>
-
-### Cloud / Infrastructure / Game
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="45"/>
 </p>
 
----
+### AI & Data
 
-# 💡 What I Like Building
+- Artificial Intelligence
+- Machine Learning
+- AI Agents
+- Large Language Models (LLMs)
+- Ollama
+- OpenCV
+- MediaPipe
+- Data Analysis
+- Scikit-learn
 
-<div align="center">
+### Tools & Platforms
 
-```text
-Web Development
-       ↓
-Full Stack Development
-       ↓
-AI / Computer Vision
-       ↓
-Interactive Systems
-       ↓
-Game Development
-       ↓
-IoT / Cloud
-```
-
-</div>
-
----
-
-# Core Strengths
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### Full Stack Development
-
-フロントエンドからバックエンドまで、
-Webアプリケーションの開発に対応。
-
-</td>
-
-<td width="50%" valign="top">
-
-### 運用・保守
-
-既存サイトの修正・改善から、
-障害調査・復旧まで対応。
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### WordPress
-
-WordPressサイトの開発・カスタマイズ、
-Plugin開発・運用を経験。
-
-</td>
-
-<td width="50%" valign="top">
-
-### UI / UX
-
-SCSS・JavaScriptなどを使用し、
-デザインと使いやすさを意識した開発。
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### Infrastructure
-
-Xserver・FTP・Docker・Cloudなど、
-Web環境の構築・運用を経験。
-
-</td>
-
-<td width="50%" valign="top">
-
-### AI Engineering
-
-AIエンジニアリングを専攻し、
-AI・ML・Computer Visionを学習中。
-
-</td>
-
-</tr>
-</table>
+- Git & GitHub
+- Docker
+- Linux
+- PostgreSQL
+- Cloudflare
+- Unity
+- Raspberry Pi
+- Power BI
 
 ---
 
-# 📚 Currently Learning
+## Certifications & Achievements
 
-<p align="center">
+- Fundamental Information Technology Engineer Examination (基本情報技術者試験)
+- J.TEST — Pre-Level B / 740
+- Spring School International — Advanced English Course
 
-<img src="https://img.shields.io/badge/AI%20Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cloud-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+---
 
+## Current Focus
+
+- Building reliable AI-powered applications.
+- Developing autonomous AI agent systems.
+- Improving backend architecture and API design.
+- Studying algorithms and data structures.
+- Exploring cloud infrastructure and distributed systems.
+- Combining artificial intelligence with real-world applications.
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://github.com/tanakaseidy3103">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-Web開発の実務経験をベースに、AI・機械学習・クラウドなどの
-技術を組み合わせ、より幅広いシステム開発ができるエンジニアを目指しています。
-
----
-
-# Contact
-
-<div align="center">
-
-<a href="https://github.com/tanakaseidy3103">
-<img src="https://img.shields.io/badge/GitHub-tanakaseidy3103-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Thanks for visiting my profile! 
-
-**Full Stack Development × AI Engineering**
-
-</div>
+**Interested in Software Engineering, AI Engineering, Full-Stack Development, and building innovative technology.**
